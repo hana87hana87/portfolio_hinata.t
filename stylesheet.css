@@ -1,0 +1,366 @@
+header{
+    width:1500px;
+    height:516px;
+}
+
+.header-logo{
+    width:250px;
+    height:250px;
+    display:block;
+    margin:0 auto;
+    padding-top:50px;
+}
+ul{
+    list-style-type:none;
+    text-decoration:none;
+}
+
+
+
+.artworks{
+    text-decoration:none;
+    color:black;
+    
+}
+
+.artworks:hover{
+    color:gray;
+}
+
+.about{
+    text-decoration:none;
+    color:black;
+
+}
+
+.about:hover{
+    color:gray;
+
+}
+
+.contact{
+    text-decoration:none;
+    color:black;
+
+}
+
+.contact:hover{
+    color:gray;
+
+}
+
+
+
+li{
+    float:left;
+    padding-right:50px;
+    font-size:30px;
+    text-decoration:none;
+    
+    
+    
+}
+
+.link{
+    color:black;
+    text-decoration:none;
+
+}
+
+.header-list{
+ 
+ padding-bottom:150px;
+ padding-top:50px;
+ padding-left:480px;
+ 
+    
+    
+    
+
+}
+
+.imgh{
+    width:1000px;
+    height:300px;
+    padding-bottom:50px;
+
+}
+
+.header2{
+    padding-left:500px;
+}
+
+.header4{
+    padding-left:500px;
+    
+}
+
+.header-kasa p{
+    text-align:right;
+}
+
+
+
+
+
+.product{
+    width:1500px;
+    
+}
+
+
+h1{
+    padding-top:300px;
+    text-align:center;
+}
+
+
+  
+.sample1 {
+    width:300px;
+    height:400px;
+    overflow:   hidden;
+    margin:     10px 8px 10px 16px;
+    position:   relative; /* 相対位置指定 */
+    display:inline-block;
+    margin-left:140px;
+    margin-bottom:100px;
+  }
+  .sample1 .caption {
+    font-size:    130%;
+    text-align:     center;
+    padding-top:    160px;
+    color:      #fff;
+  }
+  .sample1 .mask {
+    width:      100%;
+    height:     100%;
+    position:   absolute; /* 絶対位置指定 */
+    top:      0;
+    left:     0;
+    opacity:    0;  /* マスクを表示しない */
+    background-color: rgba(0,0,0,0.4);  /* マスクは半透明 */
+    -webkit-transition: all 0.2s ease;
+    transition:   all 0.2s ease;
+  }
+  .sample1:hover .mask {
+    opacity:    1;  /* マスクを表示する */
+  }
+
+
+  
+
+  .sample2 {
+    width:450px;
+    height:305px;
+    overflow:   hidden;
+    
+    
+    position:   relative; /* 相対位置指定 */
+    display:inline-block;
+    margin-bottom:100px;
+    margin-left:180px;
+    margin-right:10px;
+    
+    
+    
+    
+    
+    
+  }
+  .sample2 .caption {
+    font-size:    130%;
+    text-align:     center;
+    padding-top:    160px;
+    color:      #fff;
+  }
+  .sample2 .mask {
+    width:      100%;
+    height:     100%;
+    position:   absolute; /* 絶対位置指定 */
+    top:      0;
+    left:     0;
+    opacity:    0;  /* マスクを表示しない */
+    background-color: rgba(0,0,0,0.4);  /* マスクは半透明 */
+    -webkit-transition: all 0.2s ease;
+    transition:   all 0.2s ease;
+  }
+  .sample2:hover .mask {
+    opacity:    1;  /* マスクを表示する */
+  }
+
+
+  .10{
+      padding-right:700px;
+  }
+
+
+  
+
+
+  
+
+
+  .image-yoko{
+      width:450px;
+      height:400px;
+      padding-top:50px;
+    padding-bottom:50px;
+  }
+
+  
+  
+
+  
+
+  .kibun{
+      padding-left:250px;
+  }
+
+
+  .e1{
+    padding-left:250px;
+
+  }
+
+  .nigaoe-girl{
+    padding-left:250px;
+
+  }
+
+  .pias1{
+    padding-left:250px;
+    padding-right:700px;
+
+  }
+
+  
+
+
+  .kasa1{
+    padding-left:250px;
+    padding-right:100px;
+
+  }
+
+  .dessan2{
+    padding-left:250px;
+    padding-right:100px;
+
+  }
+
+  .tama{
+    padding-left:250px;
+    padding-right:100px;
+
+
+  }
+
+  .about{
+      width:1500px;
+      
+  }
+
+  
+
+  .aobut-img{
+      width:300px;
+      height:300px;
+      margin:0 auto;
+      display:block;
+      padding-bottom:50px;
+      padding-top:100px;
+  }
+
+
+
+  
+
+
+
+
+
+  h2{
+      display:block;
+      width:300px;
+      margin:0 auto;
+      padding-bottom:30px;
+  }
+
+  .about p{
+    display:block;
+    width:500px;
+    margin:0 auto;
+    text-align:center;
+    
+  }
+
+h2{
+    display:block;
+      width:300px;
+    padding-top:50px;
+    
+    font-weight:bold;
+    
+}
+
+h3{
+    text-align: center;
+    padding-top:50px;
+    font-size:5px;
+    font-weight:bold;
+    
+
+}
+
+  .insta{
+      background-color:gray;
+      color:white;
+      padding:15px 5px;
+      display:block;
+      width:120px;
+      margin:0 auto;
+      
+      margin-top:20px;
+      border-radius:10px;
+      text-decoration:none;
+     
+      
+  }
+
+  .fab{
+      padding-right:5px;
+      padding-left:5px;
+  }
+
+
+  .footer{
+      margin-top:100px;
+      background-color:gray;
+      width:1500px;
+      height:200px;
+      
+  
+
+ 
+
+@media screen and (min-width: 481px)　{ 
+    
+}
+
+
+@media screen and (max-width: 480px)　{ 
+    header{
+        
+    }
+    .header-logo{
+        width:50px;
+        height:50px;
+        
+        
+        padding-top:50px;
+    }
+
+}
+
+
