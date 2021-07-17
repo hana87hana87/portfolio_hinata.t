@@ -12,6 +12,7 @@
 ul{
     list-style-type:none;
     text-decoration:none;
+    font-family:sans-serif;
 }
 
 
@@ -55,6 +56,7 @@ li{
     padding-right:50px;
     font-size:30px;
     text-decoration:none;
+    font-family:sans-serif;
     
     
     
@@ -133,6 +135,7 @@ h1{
     font-size:100px;
     padding-top:300px;
     text-align:center;
+    font-family:sans-serif;
 }
 
 
@@ -152,6 +155,7 @@ h1{
     text-align:     center;
     padding-top:    160px;
     color:      #fff;
+    font-family:sans-serif;
   }
   .sample1 .mask {
     width:      100%;
@@ -301,6 +305,7 @@ h1{
       padding-bottom:30px;
       color:black;
       font-size:100px;
+      font-family:sans-serif;
   }
 
   .about-box{
@@ -340,6 +345,7 @@ h2{
     padding-top:50px;
     
     font-weight:bold;
+    font-family:sans-serif;
     
 }
 
@@ -350,6 +356,7 @@ h3{
     font-size:100px;
     font-weight:bold;
     color:black;
+    font-family:sans-serif;
     
 
 }
